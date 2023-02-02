@@ -1,4 +1,4 @@
-# Tutorial Nadai ERC20 on StarkNet
+# Starknet Edu ERC20 en StarkNet
 
 ¡Bienvenidos! Este es un taller automatizado que explicará cómo implementar un token ERC20 en StarkNet y personalizarlo para realizar funciones específicas. El estándar ERC20 se describe [aquí](https://docs.openzeppelin.com/contracts/3.x/api/token/erc20). Está dirigido a desarrolladores que: 
 

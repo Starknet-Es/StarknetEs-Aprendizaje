@@ -25,7 +25,7 @@ TL; DR: las cuentas en StarkNet son simplemente contratos inteligentes regulares
 - `__validate_declare__`
 - `__execute__`
 
-Su objetivo es diseñar contratos de cuenta que pasen todas las comprobaciones de [evaluator.cairo](contracts/evaluator.cairo) y acumulen todos los puntos disponibles en StarkNet(Goerli).
+Su objetivo es diseñar contratos de cuenta que pasen todas las comprobaciones de [evaluator.cairo](https://github.com/starknet-edu/starknet-accounts/blob/answers/contracts/tutorial/evaluator.cairo) y acumulen todos los puntos disponibles en StarkNet(Goerli).
 
 Este tutorial consta de varios "contratos de cuenta" de StarkNet y scripts auxiliares de "starknet_py" para compilación, implementación y prueba. También incluye un contrato inteligente evaluador, que comprobará que el código que escribes en el contrato de tu cuenta es correcto.
 
@@ -191,22 +191,31 @@ python3 hello/hello.py --testnet
 
 Si necesita sugerencias sobre soluciones de tutoriales, puede encontrarlas en la rama `respuestas`. Estos incluirán un pytest para que lo ejecute, el starknet_py completo y el contrato cairo completo.
 
+### Contratos y Direcciones
+
+| Contract code | Contract on voyager   |
+| -------------------------------------------------------------------- | --------- |
+| [Points counter ERC20](https://github.com/starknet-edu/starknet-accounts/blob/answers/contracts/tutorial/token/TDERC20.cairo)          | [0x0134b89cfb9735a407c58b1a454c40634b600ab1e5a37d8138015f025cc8af4f](https://goerli.voyager.online/contract/0x0134b89cfb9735a407c58b1a454c40634b600ab1e5a37d8138015f025cc8af4f) |
+| [Evaluator](https://github.com/starknet-edu/starknet-accounts/blob/answers/contracts/tutorial/evaluator.cairo)                               | [0x01bb626c068310ba990db71f7d51fe999c37053d42470aee35698577a44baec6](https://goerli.voyager.online/contract/0x01bb626c068310ba990db71f7d51fe999c37053d42470aee35698577a44baec6) |
+
+
+
 ## Trabajando en el tutorial
 
-### Ejercicio 1 - [Hello](./contracts/hello)
+### Ejercicio 1 - [Hello](https://github.com/starknet-edu/starknet-accounts/tree/answers/contracts/hello)
 
-Implementemos y probemos el contrato de cuenta más simple que podamos, [`hello.cairo`](contracts/hello/hello.cairo):
+Implementemos y probemos el contrato de cuenta más simple que podamos, [`hello.cairo`](https://github.com/starknet-edu/starknet-accounts/blob/answers/contracts/hello/hello.cairo):
 
 ```bash
 cd contracts
 python3 hello/hello.py
 ```
 
-El trabajo de un contrato de cuenta es ejecutar una lógica comercial arbitraria en nombre de una entidad específica. Esta es la razón por la que vemos un patrón de argumento similar para la mayoría de [ejecutar funciones](contracts/hello/hello.cairo#L11).
+El trabajo de un contrato de cuenta es ejecutar una lógica comercial arbitraria en nombre de una entidad específica. Esta es la razón por la que vemos un patrón de argumento similar para la mayoría de [ejecutar funciones](https://github.com/starknet-edu/starknet-accounts/blob/answers/contracts/hello/hello.cairo#L11).
 
 Siga las indicaciones y acumule 100 puntos.
 
-### Ejercicio 2 - [Signatures](./contracts/signatures)
+### Ejercicio 2 - [Signatures](https://github.com/starknet-edu/starknet-accounts/tree/answers/contracts/signature)
 
 #### Firma 1
 
@@ -255,7 +264,7 @@ python3 signature/signature_3.py
 
 Siga las indicaciones y acumule 300 puntos.
 
-### Ejercicio 3 - [MultiCall](./contracts/multicall)
+### Ejercicio 3 - [MultiCall](https://github.com/starknet-edu/starknet-accounts/tree/answers/contracts/multicall)
 
 Ahora que hemos implementado los mecanismos de firma de ECDSA vanilla, ¡veamos qué puede hacer realmente la abstracción de cuentas!
 
@@ -274,7 +283,7 @@ python3 multicall/multicall.py
 
 Siga las indicaciones y acumule 500 puntos.
 
-### Ejercicio 4 - [MultiSig](./contracts/multisig)
+### Ejercicio 4 - [MultiSig](https://github.com/starknet-edu/starknet-accounts/tree/answers/contracts/multisig)
 
 Una billetera `multisig` o de múltiples firmas le permite compartir la seguridad entre múltiples entidades firmantes. Puede pensar en ellos como bóvedas de banco en el sentido de que requieren más de una llave para desbloquear o, en este caso, autorizar una transacción.
 
