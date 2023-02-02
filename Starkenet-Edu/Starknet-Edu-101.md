@@ -17,7 +17,7 @@ StarkNet aún esta en Alpha. Esto significa que sigue en desarrollo, la pintura 
 **Completa los ejercicios y obtén tokens!**
 Este workshop consiste en un conjunto de contratos inteligentes corriendo en la testnet de StarkNet Alpha. Cada contrato es un ejercicio - que remarca alguna característica/feature del lenguaje de programación Cairo.
 
-Al completar el ejercicio se te acreditarán puntos en forma de [ERC20 token](token/TDERC20.cairo).
+Al completar el ejercicio se te acreditarán puntos en forma de [ERC20 token](https://github.com/starknet-edu/starknet-cairo-101/blob/main/contracts/token/TDERC20.cairo).
 
 ​Este workshop se enfoca en *leer* código Cairo y contratos inteligentes de StarkNet para entender su sintaxis. No es necesario programar o instalar nada en tu computadora para seguirlo y completarlo.
 
@@ -99,7 +99,7 @@ Cuando busques hacer algún contrato/transacción, siempre asegúrate de que est
 | Tópico                                            | Código del contrato                                        | Contrato en Voyager                                                                                             |
 | ------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Contador de puntos ERC20                          | [Contador de puntos ERC20](token/TDERC20.cairo) | [Link](https://goerli.voyager.online/contract/0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c) |
-| Sintaxis general                                  | [Ex01](Lección-01/ex01.cairo)                              | [Link](https://goerli.voyager.online/contract/0x29e2801df18d7333da856467c79aa3eb305724db57f386e3456f85d66cbd58b) |
+| Sintaxis general                                  | [Ex01](https://github.com/starknet-edu/starknet-cairo-101/blob/main/contracts/ex01.cairo)                              | [Link](https://goerli.voyager.online/contract/0x29e2801df18d7333da856467c79aa3eb305724db57f386e3456f85d66cbd58b) |
 | Variables de almacenamiento, getters, asserts     | [Ex02](contracts/ex02.cairo)                              | [Link](https://goerli.voyager.online/contract/0x18ef3fa8b5938a0059fa35ee6a04e314281a3e64724fe094c80e3720931f83f) |
 | Leyendo y escribiendo variables de almacenamiento | [Ex03](contracts/ex03.cairo)                              | [Link](https://goerli.voyager.online/contract/0x79275e734d50d7122ef37bb939220a44d0b1ad5d8e92be9cdb043d85ec85e24) |
 | Mappings                                          | [Ex04](contracts/ex04.cairo)                              | [Link](https://goerli.voyager.online/contract/0x2cca27cae57e70721d0869327cee5cb58098af4c74c7d046ce69485cd061df1) |
