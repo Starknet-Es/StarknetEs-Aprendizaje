@@ -56,5 +56,5 @@
 
 #### Aprender con la comunidad
 
--
+- [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA) - Recap Workshop 6-7 sobre Account Abtraction entre L2 Español y StarknetEs
 

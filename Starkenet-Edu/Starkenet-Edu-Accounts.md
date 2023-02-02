@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./misc/abstract.jpg" style="width: 350px">
+    <img src="assets/abstract.jpg" style="width: 350px">
     <h1>Abstracción de Cuentas Starknet</h1>
     <br>
 </div>
@@ -148,7 +148,7 @@ Al implementar en testnet, complete los detalles relevantes en el archivo `confi
 #### [Argent-X](https://chrome.google.com/webstore/detail/argent-x/dlcobpjiigpikoobohmabehhmhfoodbb) Example
 
 <div align="center">
-    <img src="./misc/argent.png" style="width: 350px">
+    <img src="assets/argent.png" style="width: 350px">
 </div>
 
 ***DIRECCIÓN***
@@ -174,7 +174,7 @@ Al implementar en testnet, complete los detalles relevantes en el archivo `confi
 
 ***Example `config.json`***
 <div align="center">
-    <img src="./misc/hints.png" style="width: 350px">
+    <img src="assets/hints.png" style="width: 350px">
 </div>
 
 ### Paso 5 - Contabilización de tarifas
