@@ -13,7 +13,7 @@
 - [Cairo Mummies](#cairo-mummies)
 - [MIN Starknet](#min-starknet)
 - [Aprender con Cairo](#aprender-con-cairo)
-- [Aprender con Cairo 1.0](#aprender-con-cairo-1.0)
+- [Aprender con Cairo 1.0](#aprender-con-cairo-1)
 - [Aprender con Rust](#aprender-con-rust)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
 
@@ -50,7 +50,7 @@
 
 - [Aprender Cairo](https://github.com/Nadai2010/Nadai-Aprender-Cairo-5-Minutos) - Profundizaremos en la comprensión de la sintaxis de Cairo y cómo podría crear e implementar un contrato inteligente de Cairo en StarkNet.
 
-#### Aprender con Cairo 1.0
+#### Aprender con Cairo 1
 
 - [Exploring Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1) - Primeras exploraciones de [@dpinones](https://github.com/dpinones) enseñando Cairo 1.0.
 - [Installer Cairo 1.0](https://github.com/sdgalvan/cairo-installer) - Guía de instalación de [@dub](https://github.com/sdgalvan) que instala una versión de Cairo 1.0.
