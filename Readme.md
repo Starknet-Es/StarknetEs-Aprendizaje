@@ -52,9 +52,11 @@
 
 #### Aprender con Cairo 1
 
+- [Nadai Cairo 1.0 Sierra](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra) - Aprende todo lo que necesitas saber sobre el nuevo y mejorado Cairo con ejemplos de compilaciones de Cairo a Sierra y Casm
 - [Exploring Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1) - Primeras exploraciones de [@dpinones](https://github.com/dpinones) enseñando Cairo 1.0.
 - [Installer Cairo 1.0](https://github.com/sdgalvan/cairo-installer) - Guía de instalación de [@dub](https://github.com/sdgalvan) que instala una versión de Cairo 1.0.
 - [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
+
 #### Aprender con Rust
 
 - [Rustlings](https://github.com/ArturVargas/rustlings) - Guía de [@ArturVargas](https://github.com/ArturVargas) con souciones a pequeños ejercicios para acostumbrarte a leer y escribir código Rust.
