@@ -15,6 +15,7 @@
 - [Aprender con Cairo](#aprender-con-cairo)
 - [Aprender con Cairo 1.0](#aprender-con-cairo-1)
 - [Aprender con Rust](#aprender-con-rust)
+- [Aprender con Solidity](#aprender-con-solidity)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
 
 
@@ -59,7 +60,11 @@
 
 #### Aprender con Rust
 
-- [Rustlings](https://github.com/ArturVargas/rustlings) - Guía de [@ArturVargas](https://github.com/ArturVargas) con souciones a pequeños ejercicios para acostumbrarte a leer y escribir código Rust.
+- [Rustlings](https://github.com/ArturVargas/rustlings) - Guía de [@ArturVargas](https://github.com/ArturVargas) con souciones a pequeños ejercicios para acostumbrarte a leer y escribir código Rust. 
+
+#### Aprender con Solidity
+
+- [From Solidity to Cairo 1.0](https://from-solidity-to-cairo.notion.site/from-solidity-to-cairo/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e) - Guía en Desarrollo de [@ArturVargas](https://github.com/ArturVargas) para desarrolladores que vengan de Solidity y quieran aprender la nueva Sintáxis de Cairo 1.0, este gran trabajo será uno de los proyectos principales para posibles Basecamp.
 
 #### Aprender con la comunidad
 
