@@ -53,6 +53,7 @@
 
 #### Aprender con Cairo 1
 
+- [Traducción Sierra Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Sierra%20Parte%201.md) - Aprende como actúa Sierra como capa intermedia y las ventaja que tiene en Starknet y Cairo 1.0    
 - [StarkNet-Es - Guía como desplegar contrato en Cairo 1.0](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1) - Aprende a desplegar tu contrato Cairo 1 en testnet.
 - [Nadai Cairo 1.0 Sierra](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra) - Aprende todo lo que necesitas saber sobre el nuevo y mejorado Cairo con ejemplos de compilaciones de Cairo a Sierra y Casm
 - [Exploring Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1) - Primeras exploraciones de [@dpinones](https://github.com/dpinones) enseñando Cairo 1.0.
