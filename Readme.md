@@ -17,7 +17,7 @@
 - [Aprender con Rust](#aprender-con-rust)
 - [Aprender con Solidity](#aprender-con-solidity)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
-
+- [Starklings](#starklings)
 
 ## Tutoriales
 
@@ -72,3 +72,19 @@
 
 - [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA) - Recap Workshop 6-7 sobre Account Abtraction entre L2 Español y StarknetEs
 
+#### Starklings
+
+- [Starklings](https://github.com/shramee/starklings-cairo1) - Un tutorial interactivo para empezar a trabajar con Cairo v1 y Starknet. 
+
+- Puede revisar los videos del equipo de StarknetEs por [@ArturVargas](https://github.com/ArturVargas)
+
+1. [Starklings 01](https://www.youtube.com/watch?v=G5bTHzqm_aA) 
+2. [Starklings 02](https://www.youtube.com/watch?v=97C-Q2DP8JY) 
+3. [Starklings 03](https://www.youtube.com/watch?v=-Fz2ENun2bk) 
+4. [Starklings 04](https://www.youtube.com/watch?v=cobEoS0alqc) 
+5. [Starklings 05](https://www.youtube.com/watch?v=8iHpwKrGicM) 
+6. [Starklings 06](https://www.youtube.com/watch?v=drNNCihXsDg)  
+7. [Starklings 07](https://www.youtube.com/watch?v=Uwm2AJGBWOA) 
+
+- Puede revisar las soluciones del equipo de StarknetEs por [@dpinones](https://github.com/dpinones) que podrá encontrar [aquí](https://github.com/dpinones/starklings-cairo1/tree/solutions)
+- Puede revisar las soluciones completas de la rama oficial [aquí](https://github.com/Akashneelesh/starklings-cairo1/tree/Solutions/exercises)
