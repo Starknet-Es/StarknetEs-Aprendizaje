@@ -75,7 +75,7 @@
 #### Starklings
 
 - [Starklings](https://github.com/shramee/starklings-cairo1) - Un tutorial interactivo para empezar a trabajar con Cairo v1 y Starknet. 
-- [Lista de Video Completa Starkling] - Puede revisar la reproducción de la lista completa Starklings, con ejercicios resueltos por el miembro del equipo Starknet-Es  [@ArturVargas](https://github.com/ArturVargas) 
+- [Lista de Video Completa Starkling](https://www.youtube.com/watch?v=G5bTHzqm_aA&list=PLSNe4kuVQKZPWuavcjr9Ts5ydBZwuwNFH) - Puede revisar la reproducción de la lista completa Starklings, con ejercicios resueltos por el miembro del equipo Starknet-Es  [@ArturVargas](https://github.com/ArturVargas) 
 - Puede revisar los videos por separado si lo desea, desde el equipo de StarknetEs por [@ArturVargas](https://github.com/ArturVargas) 
 
 1. [Starklings 01](https://www.youtube.com/watch?v=G5bTHzqm_aA) 
