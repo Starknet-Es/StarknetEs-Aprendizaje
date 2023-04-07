@@ -86,6 +86,7 @@
 6. [Starklings 06](https://www.youtube.com/watch?v=drNNCihXsDg)  
 7. [Starklings 07](https://www.youtube.com/watch?v=Uwm2AJGBWOA) 
 8. [Starklings 08](https://www.youtube.com/watch?v=qf8HAzDxCW0)
+9. [Starklings 09](https://www.youtube.com/watch?v=VFKLLmArrC4)
 
 - Puede revisar las soluciones del equipo de StarknetEs por [@dpinones](https://github.com/dpinones) que podrá encontrar [aquí](https://github.com/dpinones/starklings-cairo1/tree/solutions)
 - Puede revisar las soluciones completas de la rama oficial [aquí](https://github.com/Akashneelesh/starklings-cairo1/tree/Solutions/exercises)
