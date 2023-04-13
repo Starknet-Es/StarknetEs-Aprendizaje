@@ -18,25 +18,29 @@
 - [Aprender con Solidity](#aprender-con-solidity)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
 - [Starklings](#starklings)
+- [Contenido Multimedia de habla Hispana](#contenido-multimedia-de-habla-hispana)
 
+---
+    
 ## Tutoriales
 
 #### Starknet Edu
-
 - [Starknet-Edu 101](Starkenet-Edu/Starknet-Edu-101.md) - Workshop interactivo de Cairo usando [Voyager](https://voyager.online/) con rompecabezas y tokens como premios.
   Official Documentation.
 - [Starknet-Edu ERC20](Starkenet-Edu/Starknet-Edu-ERC20.md) - Obtenga información sobre el estándar ERC20 y cómo implementar su propio token y acumule puntos.
 - [Starknet-Edu ERC721](Starkenet-Edu/Starknet-Edu-ERC721.md) - Obtenga información sobre el estándar ERC721 y cómo implementar su propio NFT.
 - [Starknet-Edu Bridge L2-L1](Starkenet-Edu/Starknet-Edu-Bridge-L2-L1.md) - Aprenda a construir su propio puente entre Ethereum y StarkNet.
 - [Starknet-Edu Accounts](Starkenet-Edu/Starkenet-Edu-Accounts.md) - Descubra las maravillas de la abstracción de cuentas y cree su propia billetera inteligente.
-
+    
+---
+    
 #### Cairo Mummies
-
 - [Cairo Mummies](Cairo-Mummies/Cairo-Mummies.md) - Aprenda a escribir contratos inteligentes de StarkNet desde cero con las momias de Cairo.
 - [Cairo Mummies2](Cairo-Mummies/Cairo-Mummies2.md) - Aprenda a escribir nuevos contratos inteligentes de StarkNet después de superar Cairo Mummies.
 
+---
+    
 #### MIN Starknet
-
 - [MIN-Starknet ENS](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_ens/README.md) - Min-ens es una implementación simple de un servicio de espacio de nombres en Cairo. 
 - [MIN-Starknet ERC20](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_erc20/README.md) - Aprende a construir e implementar el popular contrato de token ERC2O con Min-Erc20. 
 - [MIN-Starknet ERC721](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_erc721/README.md) - Min-erc721 implementa el estándar de token ERC721.
@@ -47,35 +51,44 @@
 - [MIN-Starknet BRIDGE](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_messaging_bridge/README.md) - Min-bridge es un puente personalizado simple que puede ayudar a un usuario a transferir un token ERC20 entre StarkNet y Ethereum.
 - [MIN-Starknet Upgradability](https://github.com/Nadai2010/Nadai-NaiProxyV2-Starknet-ERC20) - Aprenderemos cómo crear contratos actualizables mediante la codificación de un token ERC20 actualizable.
 
+---
+    
 #### Aprender con Cairo 
-
 - [Aprender Cairo](https://github.com/Nadai2010/Nadai-Aprender-Cairo-5-Minutos) - Profundizaremos en la comprensión de la sintaxis de Cairo y cómo podría crear e implementar un contrato inteligente de Cairo en StarkNet.
+- [WTF Academy](https://github.com/WTFAcademy/WTF-Starknet) - Una academia ha creado una serie de tutoriales llamada "WTF Starknet" con el objetivo de facilitar el aprendizaje en Starknet. Además, esta herramienta puede ser de gran utilidad para los desarrolladores de Ethereum que deseen adquirir conocimientos prácticos en Starknet.
 
+---
+    
 #### Aprender con Cairo 1
-
+- [Docker para el desarrollo de Cairo](https://gist.github.com/glihm/ed2629e44ef5f68dc094d90d60fdc5bc) - En esta guía, realizaremos una primera exploración de cómo utilizar Docker para Cairo 1.0, lo cual nos permitirá evitar la configuración del entorno de desarrollo.
+    - [Video de Starknet contracts Cairo 1 en Docker](https://www.youtube.com/watch?v=1jS3uOsv9Z4) - Una video guía creada por [@ArturVargas](https://github.com/ArturVargas) para usar Docker y Cairo 1.0
 - [Traducción Sierra Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Sierra%20Parte%201.md) - Aprende como actúa Sierra como capa intermedia y las ventaja que tiene en Starknet y Cairo 1.0    
-- [StarkNet-Es - Guía como desplegar contrato en Cairo 1.0](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1) - Aprende a desplegar tu contrato Cairo 1 en testnet.
+- [Starknet-Es - Guía como desplegar contrato en Cairo 1.0](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1) - Aprende a desplegar tu contrato Cairo 1 en testnet.
 - [Nadai Cairo 1.0 Sierra](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra) - Aprende todo lo que necesitas saber sobre el nuevo y mejorado Cairo con ejemplos de compilaciones de Cairo a Sierra y Casm
 - [Exploring Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1) - Primeras exploraciones de [@dpinones](https://github.com/dpinones) enseñando Cairo 1.0.
 - [Installer Cairo 1.0](https://github.com/sdgalvan/cairo-installer) - Guía de instalación de [@dub](https://github.com/sdgalvan) que instala una versión de Cairo 1.0.
 - [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
 
+---
+    
 #### Aprender con Rust
-
 - [Rustlings](https://github.com/ArturVargas/rustlings) - Guía de [@ArturVargas](https://github.com/ArturVargas) con souciones a pequeños ejercicios para acostumbrarte a leer y escribir código Rust. 
 
+---
+    
 #### Aprender con Solidity
-
 - [From Solidity to Cairo 1.0](https://from-solidity-to-cairo.notion.site/from-solidity-to-cairo/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e) - Guía en Desarrollo de [@ArturVargas](https://github.com/ArturVargas) para desarrolladores que vengan de Solidity y quieran aprender la nueva Sintáxis de Cairo 1.0, este gran trabajo será uno de los proyectos principales para posibles Basecamp.
 
+---
+    
 #### Aprender con la comunidad
-
 - [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA) - Recap Workshop 6-7 sobre Account Abtraction entre L2 Español y StarknetEs
 
+---
+    
 #### Starklings
-
 - [Starklings](https://github.com/shramee/starklings-cairo1) - Un tutorial interactivo para empezar a trabajar con Cairo v1 y Starknet. 
-- [Lista de Video Completa Starklings](https://www.youtube.com/watch?v=G5bTHzqm_aA&list=PLSNe4kuVQKZPWuavcjr9Ts5ydBZwuwNFH) - Puede revisar la reproducción de la lista completa Starklings, con ejercicios resueltos por el miembro del equipo Starknet-Es  [@ArturVargas](https://github.com/ArturVargas) 
+- [Lista de Video Completa Starklings](https://www.youtube.com/watch?v=G5bTHzqm_aA&list=PLSNe4kuVQKZPWuavcjr9Ts5ydBZwuwNFH) - Puede revisar la reproducción de la lista completa Starklings, con ejercicios resueltos por el miembro del equipo StarknetEs  [@ArturVargas](https://github.com/ArturVargas) 
 - Puede revisar los videos por separado si lo desea, desde el equipo de StarknetEs por [@ArturVargas](https://github.com/ArturVargas) 
 
 1. [Starklings 01](https://www.youtube.com/watch?v=G5bTHzqm_aA) 
@@ -91,3 +104,35 @@
 
 - Puede revisar las soluciones del equipo de StarknetEs por [@dpinones](https://github.com/dpinones) que podrá encontrar [aquí](https://github.com/dpinones/starklings-cairo1/tree/solutions)
 - Puede revisar las soluciones completas de la rama oficial [aquí](https://github.com/Akashneelesh/starklings-cairo1/tree/Solutions/exercises)
+    
+---
+    
+### Contenido Multimedia de habla Hispana
+
+#### Hablando de Starknet
+Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https://twitter.com/0xNurstar) y [Nadai](https://twitter.com/Nadai02010), en él se invitará a desarrolladores, miembros del equipo o usuario de comunidad en Starknet para compartir sus experiencias y novedades con nosotros. También dedicaremos tiempo a destacar noticias relevantes sobre StarkNet que hayan ocurrido recientemente.
+    
+- [HDS-1 - Space fallido con Twiiter](https://twitter.com/0xNurstar/status/1636711324016050180)
+- [HDS-2 - Primer episodio introductorio de Hablando de Starknet](https://twitter.com/0xNurstar/status/1640788506032189441)
+- [HDS-3 - Space Internacional con Nurst en Tokio y Damián en Argentina](https://twitter.com/Nadai02010/status/1645784830183895041)
+
+---
+    
+#### Workshops L2 Español - StarknetEs
+Una [lista de 7 Workshops](https://www.youtube.com/playlist?list=PL5LoUunXvIgLCdVerVBPZ2G3bR51Re251) en los que aprenderás todo sobre los Vality Rollup, Cairo, Starknet y como empezar hacer diferentes tutoriales en unos talleres muy especiales de la mano de grande comunidades como  [Twitter L2 en Español](https://twitter.com/Layer2es)-[Telegram L2 en Español](https://t.me/l2espaniol) y el equipo oficial de Starknet en Español 
+
+- [Workshop Series StarkNet 01 - Introducción a L2](https://www.youtube.com/watch?v=s6vmWYkZoa8) 
+- [Workshop Series StarkNet 02 - Ecosistema StarkNet](https://www.youtube.com/watch?v=KxUhBM3a6oM)
+- [Workshop Series StarkNet 03 - Creando en StarkNet](https://www.youtube.com/watch?v=elXLye41_b8)
+- [Workshop Series StarkNet 04 - Desplegando en StarkNet Parte 1: Creando un NFT](https://www.youtube.com/watch?v=y3rJnaNRiGI&list=PL5LoUunXvIgLCdVerVBPZ2G3bR51Re251&index=4)
+- [Workshop Series StarkNet 05 - Desplegando en StarkNet Parte 2: URI y Metadata para un ERC-721](https://www.youtube.com/watch?v=SnaZjW2p3Io)
+- [Workshop Series StarkNet 06 - Account Abstraction Pt. 1](https://www.youtube.com/watch?v=flnTFmEnjEQ&list=PL5LoUunXvIgLCdVerVBPZ2G3bR51Re251&index=6)
+- [Workshop Series StarkNet 07 - Account Abstraction Pt. 2](https://www.youtube.com/watch?v=6vdP329tK_I&list=PL5LoUunXvIgLCdVerVBPZ2G3bR51Re251&index=7)
+
+---
+    
+#### Eventos de Equipo o Miembros sobre temas de Starknet
+
+- [Defi Lab y EIP4337](https://www.youtube.com/watch?v=YQwjC-bsjuk&feature=youtu.be) - La comunidad [Twitter Defi Lab](https://twitter.com/DeFi_LaB)-[Telegram Defi Lab](https://t.me/DeFi_Lab) invita a [Nadai](https://twitter.com/Nadai02010) en participar en taller sobre AA con otro compañero [Iván](https://github.com/ivanmmurciaua) co-fundador de [Escuela Crypto](https://t.me/joinchat/QN2nCFar4VsLzKEbFUTDfQ)
+
+---
