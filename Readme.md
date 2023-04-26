@@ -115,6 +115,7 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
 - [HDS-1 - Space fallido con Twiiter](https://twitter.com/0xNurstar/status/1636711324016050180)
 - [HDS-2 - Primer episodio introductorio de Hablando de Starknet](https://twitter.com/0xNurstar/status/1640788506032189441)
 - [HDS-3 - Space Internacional con Nurst en Tokio y Damián en Argentina](https://twitter.com/Nadai02010/status/1645784830183895041)
+- [HDS-4 - Space con Fran de GIZA sobre ONNX, IA, Starknet y Futuro del ecosistema](https://twitter.com/0xNurstar/status/1650922096527122432)
 
 ---
     
