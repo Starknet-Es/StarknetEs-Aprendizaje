@@ -121,6 +121,7 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
     - [Youtube](https://www.youtube.com/watch?v=JqqSNU2Xl0Q)
 
 Puede acceder a la PlayList completa desde [aquí](https://www.youtube.com/watch?v=4e9U75b6nE8&list=PLsT2v7zRw9wmuvS-7BJoNy5gI0W_O58pm)
+
 ---
     
 #### Workshops L2 Español - StarknetEs
