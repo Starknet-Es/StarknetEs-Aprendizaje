@@ -24,7 +24,7 @@
     
 ## Tutoriales
 
-#### Starknet Edu
+### Starknet Edu
 - [Starknet-Edu 101](Starkenet-Edu/Starknet-Edu-101.md) - Workshop interactivo de Cairo usando [Voyager](https://voyager.online/) con rompecabezas y tokens como premios.
   Official Documentation.
 - [Starknet-Edu ERC20](Starkenet-Edu/Starknet-Edu-ERC20.md) - Obtenga información sobre el estándar ERC20 y cómo implementar su propio token y acumule puntos.
@@ -34,13 +34,13 @@
     
 ---
     
-#### Cairo Mummies
+### Cairo Mummies
 - [Cairo Mummies](Cairo-Mummies/Cairo-Mummies.md) - Aprenda a escribir contratos inteligentes de StarkNet desde cero con las momias de Cairo.
 - [Cairo Mummies2](Cairo-Mummies/Cairo-Mummies2.md) - Aprenda a escribir nuevos contratos inteligentes de StarkNet después de superar Cairo Mummies.
 
 ---
     
-#### MIN Starknet
+### MIN Starknet
 - [MIN-Starknet ENS](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_ens/README.md) - Min-ens es una implementación simple de un servicio de espacio de nombres en Cairo. 
 - [MIN-Starknet ERC20](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_erc20/README.md) - Aprende a construir e implementar el popular contrato de token ERC2O con Min-Erc20. 
 - [MIN-Starknet ERC721](https://github.com/Nadai2010/Nadai-Min-Starknet/blob/master/src/min_erc721/README.md) - Min-erc721 implementa el estándar de token ERC721.
@@ -53,21 +53,25 @@
 
 ---
     
-#### Aprender con Cairo 
+### Aprender con Cairo 
 - [Aprender Cairo](https://github.com/Nadai2010/Nadai-Aprender-Cairo-5-Minutos) - Profundizaremos en la comprensión de la sintaxis de Cairo y cómo podría crear e implementar un contrato inteligente de Cairo en StarkNet.
 - [WTF Academy](https://github.com/WTFAcademy/WTF-Starknet) - Una academia ha creado una serie de tutoriales llamada "WTF Starknet" con el objetivo de facilitar el aprendizaje en Starknet. Además, esta herramienta puede ser de gran utilidad para los desarrolladores de Ethereum que deseen adquirir conocimientos prácticos en Starknet.
 
 ---
     
-#### Aprender con Cairo 1
+### Aprender con Cairo 1
 - [Docker para el desarrollo de Cairo](https://gist.github.com/glihm/ed2629e44ef5f68dc094d90d60fdc5bc) - En esta guía, realizaremos una primera exploración de cómo utilizar Docker para Cairo 1.0, lo cual nos permitirá evitar la configuración del entorno de desarrollo.
     - [Video de Starknet contracts Cairo 1 en Docker](https://www.youtube.com/watch?v=1jS3uOsv9Z4) - Una video guía creada por [@ArturVargas](https://github.com/ArturVargas) para usar Docker y Cairo 1.0
-- [Traducción Sierra Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Sierra%20Parte%201.md) - Aprende como actúa Sierra como capa intermedia y las ventaja que tiene en Starknet y Cairo 1.0    
 - [Starknet-Es - Guía como desplegar contrato en Cairo 1.0](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1) - Aprende a desplegar tu contrato Cairo 1 en testnet.
 - [Nadai Cairo 1.0 Sierra](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra) - Aprende todo lo que necesitas saber sobre el nuevo y mejorado Cairo con ejemplos de compilaciones de Cairo a Sierra y Casm
 - [Exploring Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1) - Primeras exploraciones de [@dpinones](https://github.com/dpinones) enseñando Cairo 1.0.
 - [Installer Cairo 1.0](https://github.com/sdgalvan/cairo-installer) - Guía de instalación de [@dub](https://github.com/sdgalvan) que instala una versión de Cairo 1.0.
 - [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
+
+#### Traducciones Sierra
+- [Traducción Sierra Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Sierra%20Parte%201.md) - Aprende como actúa Sierra como capa intermedia y las ventaja que tiene en Starknet y Cairo 1.0    
+
+#### Traducciones Explorando Cairo 1
 - [Traducción Explorando Cairo Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%201.md) - En este artículo de [Asten](https://twitter.com/0xasten), se discuten algunas de las características clave de Cairo 1.0, variables y constantes, la declaración de funciones, el retorno de funciones, la operación aritmética de felt252 y algunas más.
 - [Traducción Explorando Cairo Parte 2](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%202.md) - En este artículo de [Asten](https://twitter.com/0xasten), exploraremos las operaciones de comparación y aritmética en los tipos de enteros y felt252, y la conversión de tipos entre enteros y felt252 en Cairo 1.0. 
 ---
