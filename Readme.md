@@ -9,6 +9,7 @@
 
 ### Contenido
 
+- [Pioneros](#pioneros)
 - [Starknet Edu](#starknet-edu)
 - [Cairo Mummies](#cairo-mummies)
 - [MIN Starknet](#min-starknet)
@@ -24,6 +25,14 @@
     
 ## Tutoriales
 
+### Pioneros
+- [Pioneros Clase 1](https://github.com/ArturVargas/cairo-basics) - En esta clase aprenderemos conceptos básicos de Starknet, así como su instalación desde Docker y contratos en Cairo 1.
+    - [Vídeo Clase 1](https://www.youtube.com/watch?v=FeQlNOin4ZU)
+- [Pioneros Clase 2](https://github.com/dpinones/pioneros-clase-2) - En esta clase aprenderemos algunas herramientas como Scarb, el administrador de paquetes de Cairo.
+    - [Vídeo Clase 2](https://www.youtube.com/watch?v=nZ3L4L4KDTI)
+    
+---
+    
 ### Starknet Edu
 - [Starknet-Edu 101](Starkenet-Edu/Starknet-Edu-101.md) - Workshop interactivo de Cairo usando [Voyager](https://voyager.online/) con rompecabezas y tokens como premios.
   Official Documentation.
