@@ -74,6 +74,8 @@
 #### Traducciones Explorando Cairo 1
 - [Traducción Explorando Cairo Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%201.md) - En este artículo de [Asten](https://twitter.com/0xasten), se discuten algunas de las características clave de Cairo 1.0, variables y constantes, la declaración de funciones, el retorno de funciones, la operación aritmética de felt252 y algunas más.
 - [Traducción Explorando Cairo Parte 2](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%202.md) - En este artículo de [Asten](https://twitter.com/0xasten), exploraremos las operaciones de comparación y aritmética en los tipos de enteros y felt252, y la conversión de tipos entre enteros y felt252 en Cairo 1.0. 
+- [Traducción Explorando Cairo Parte 3](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%203.md) - En este artículo de [Asten](https://twitter.com/0xasten), exploraremos algunas características clave de Cairo 1.0, como el flujo de control para las expresiones "if", los enumerados con valores asociados, las expresiones "match" y "Option.
+    
 ---
     
 #### Aprender con Rust
