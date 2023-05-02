@@ -68,7 +68,8 @@
 - [Exploring Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1) - Primeras exploraciones de [@dpinones](https://github.com/dpinones) enseñando Cairo 1.0.
 - [Installer Cairo 1.0](https://github.com/sdgalvan/cairo-installer) - Guía de instalación de [@dub](https://github.com/sdgalvan) que instala una versión de Cairo 1.0.
 - [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
-
+- [Traducción Explorando Cairo Parte 1](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%201.md) - En este artículo de [Asten](https://twitter.com/0xasten), se discuten algunas de las características clave de Cairo 1.0, variables y constantes, la declaración de funciones, el retorno de funciones, la operación aritmética de felt252 y algunas más.
+- [Traducción Explorando Cairo Parte 2](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%202.md) - En este artículo de [Asten](https://twitter.com/0xasten), exploraremos las operaciones de comparación y aritmética en los tipos de enteros y felt252, y la conversión de tipos entre enteros y felt252 en Cairo 1.0. 
 ---
     
 #### Aprender con Rust
