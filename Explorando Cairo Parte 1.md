@@ -2,7 +2,7 @@
   <h1 style="font-size: larger;">
     <strong>Explorando Cairo 1.0: Un lenguaje de alto nivel similar a Rust para programas demostrables (1)</strong> 
     </h1>  
-    <img src="https://github.com/Nadai2010/DimeYad/blob/master/Explorando_Cairo1_pt1.png" width="600">
+    <img src="https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/assets/Explorando_Cairo1_pt1.png" width="600">
 
 _[Artículo Original](https://medium.com/dev-genius/exploring-cairo-1-0-a-rust-like-high-level-language-for-provable-programs-1-ea6d51cfa0fe)_ - Realizado por el compañero [Asten](https://twitter.com/0xasten)
 </div>
