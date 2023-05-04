@@ -3,7 +3,7 @@
   <h1 align="center">StarknetEs Aprendizaje</h1>
   <p align="center">
 
-  <p align="center">Una lista de recursos traducidos sobre aprendizaje relacionado con Starknet y Cairo <a href="https://medium.com/starkware/starknet-alpha-is-coming-to-mainnet-b825829eaf32">
+  <p align="center">Una lista de recursos traducidos sobre aprendizaje relacionado con Starknet y Cairo <a href="https://medium.com/starkware/starknet-alpha-is-coming-to-mainnet-b825829eaf32"> 
 
 </div>
 
