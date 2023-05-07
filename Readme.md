@@ -30,6 +30,9 @@
     - [Vídeo Clase 1](https://www.youtube.com/watch?v=FeQlNOin4ZU)
 - [Pioneros Clase 2](https://github.com/dpinones/pioneros-clase-2) - Scarb como herramienta, el administrador de paquetes de Cairo.
     - [Vídeo Clase 2](https://www.youtube.com/watch?v=nZ3L4L4KDTI)
+- [Pioneros Clase 3](https://github.com/Nadai2010/Pioneros-Clase-3-Maths-STARKs-101) - Introducción a Starknet, ZK, Validity Proof, Criptografía y Matemáticas detrás de las STARKs
+    - [Vídeo Clase 3](https://www.youtube.com/watch?v=hfuVHil2kgY)
+    
     
 ---
     
