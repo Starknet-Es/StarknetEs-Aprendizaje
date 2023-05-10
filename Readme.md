@@ -89,6 +89,7 @@
 - [Traducción Explorando Cairo Parte 3](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20Parte%203.md) - En este artículo de [Asten](https://twitter.com/0xasten), exploraremos algunas características clave de Cairo 1.0, como el flujo de control para las expresiones `if`, los enumerados con valores asociados, las expresiones `match` y `Option`.
 - [Traducción Explorando Cairo Parte 4](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20parte%204.md) - En este artículo de [Asten](https://twitter.com/0xasten) exploraremos los arrays, su definición, creación y modificación de un array, la eliminación de elementos y más.
 - [Traducción Explorando Cairo Parte 5](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20parte%205.md) - En este artículo de [Asten](https://twitter.com/0xasten) exploraremos los conceptos de Traits y Structs en el contexto de Cairo 1.0
+- [Traducción Explorando Cairo Parte 6](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20parte%206.md) - En este artículo de [Asten](https://twitter.com/0xasten) exploraremos algunos de los conceptos clave en Cairo 1.0, incluida la mutabilidad variable, el ownership (propiedad, en español), el borrowing (préstamo, en español) y las referencias.
     
 ---
     
