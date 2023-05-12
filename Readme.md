@@ -141,6 +141,9 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
     - [Youtube](https://www.youtube.com/watch?v=JX8LCerTteg)
 - [HDS-4 - Space con Fran de GIZA sobre ONNX, IA, Starknet y Futuro del ecosistema](https://twitter.com/0xNurstar/status/1650922096527122432)
     - [Youtube](https://www.youtube.com/watch?v=JqqSNU2Xl0Q)
+- [HDS-5 - Space con David Barreto de STARKWARE sobre StarkEx, Starknet, SHARP, VM Rust, futuro de Starknet y más](https://twitter.com/0xNurstar/status/1656013151614246912)
+    - [Youtube](https://www.youtube.com/watch?v=NGNepWPoqGM)
+
 
 Puede acceder a la PlayList completa desde [aquí](https://www.youtube.com/watch?v=4e9U75b6nE8&list=PLsT2v7zRw9wmuvS-7BJoNy5gI0W_O58pm)
 
