@@ -32,6 +32,8 @@
     - [Vídeo Clase 2](https://www.youtube.com/watch?v=nZ3L4L4KDTI)
 - [Pioneros Clase 3](https://github.com/Nadai2010/Pioneros-Clase-3-Maths-STARKs-101) - Introducción a Starknet, ZK, Validity Proof, Criptografía y Matemáticas detrás de las STARKs
     - [Vídeo Clase 3](https://www.youtube.com/watch?v=hfuVHil2kgY)
+- [Pioneros Clase 4](https://www.canva.com/design/DAFiDGwZbUo/7p3D0YRLe9AUmFPnTthiMw/view) - El poder de Account Abstraction: Introducción e Implementación en Starknet.
+    - [Vídeo Clase 4](https://www.youtube.com/watch?v=BUk_BNfGwmc)
     
     
 ---
