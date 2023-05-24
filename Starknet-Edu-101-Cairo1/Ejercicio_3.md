@@ -37,17 +37,17 @@ El contador en la variable `user_counters_storage` tiene el valor de 0.
 
 1. Llamamos a la función 2 veces para que `user_counters_storage()` tenga el valor de 4.
 
-<img src="/imágenes/3.0.png" alt="Imagen 1" width="75%">
-<img src="/imágenes/3.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/3.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/3.1.png" alt="Imagen 2" width="75%">
 
 2. Llamamos a la función 1 vez para que `user_counters_storage()` tenga el valor de 3.
 
-<img src="/imágenes/3.2.png" alt="Imagen 3" width="75%">
-<img src="/imágenes/3.3.png" alt="Imagen 4" width="75%">
+<img src="imágenes/3.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/3.3.png" alt="Imagen 4" width="75%">
 
 3. De esta manera ya podemos obtener los puntos.
 
-<img src="/imágenes/3.4.png" alt="Imagen 4" width="75%">
+<img src="imágenes/3.4.png" alt="Imagen 4" width="75%">
 
 <div align="center">
 
