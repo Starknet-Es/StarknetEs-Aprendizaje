@@ -35,10 +35,10 @@ Revise `fn claim_points()`
 ## Solución
 
 1. Llamamos a la función `my_secret_value()` y guardamos el valor para añadir en el claim.
-<img src="/imágenes/2.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/2.0.png" alt="Imagen 1" width="75%">
 
 2. Ingresamos el valor obtenido en la función `claim points`. De esta manera ya podemos obtener los puntos.
-<img src="/imágenes/2.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/2.1.png" alt="Imagen 2" width="75%">
 
 <div align="center">
 
