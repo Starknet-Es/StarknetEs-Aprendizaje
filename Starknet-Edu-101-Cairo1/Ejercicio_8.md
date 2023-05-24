@@ -35,7 +35,7 @@ En este caso `set_user_values(account, values)` debe tener el valor 10.
 
 Así que solo deberas de pasar la `account` y el array `[10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0] ` y podrás conseguir los puntos.
 
-<img src="/imágenes/8.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/8.0.png" alt="Imagen 1" width="75%">
 
 <div align="center">
 
