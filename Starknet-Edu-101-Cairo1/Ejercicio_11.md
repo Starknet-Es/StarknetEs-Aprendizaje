@@ -48,6 +48,6 @@ Deberemos encontar el ultimo valor secreto y añadir un nuevo valor dentro de lo
 
 2. Buscamos en el contrato e indica que el nuevo valor debe de estar en un margen entre 42069 +/-, en este caso se ha pasado `9811398128` para distribuir los puntos.
 
-<img src="/imágenes/11.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/11.0.png" alt="Imagen 1" width="75%">
 
 [Hash Claim ex11](https://testnet.starkscan.co/tx/0x37b8ab5540360e7e99937c8d126bc05b007dd2cf0b8e98d043c92acbb5c4a0c)
