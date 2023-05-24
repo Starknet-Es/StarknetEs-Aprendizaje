@@ -47,7 +47,7 @@ Se deben ingresar 2 valores A y B que cumplan las siguientes condiciones:
 
 1. Primero iremos a `write smart` y añadimos dentro de esos valores por ejemplo `A = 50` y `B = 0`
 
-<img src="/imágenes/7.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/7.0.png" alt="Imagen 1" width="75%">
 
 
 <div align="center">
