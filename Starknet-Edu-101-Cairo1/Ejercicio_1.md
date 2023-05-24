@@ -29,8 +29,8 @@ Revise `fn claim_points()`
 
 En este ejercicio solo debemos entrar en el código del ejercicio, conectar nuestra wallet y en `write smart` llamar la función `claim_points()` para obtener los puntos.
 
-<img src="/imágenes/1.0.png" alt="Imagen 1" width="75%">
-<img src="/imágenes/1.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/1.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/1.1.png" alt="Imagen 2" width="75%">
 
 <div align="center">
 
