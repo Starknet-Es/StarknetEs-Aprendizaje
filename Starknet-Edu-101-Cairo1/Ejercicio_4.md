@@ -41,19 +41,19 @@ En este ejercicio debemos hacer que el valor `values_mapped_storage` sea igual a
 
 1. Primero iremos a `write smart` y nos asignamos un slot.
 
-<img src="/imágenes/4.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/4.0.png" alt="Imagen 1" width="75%">
 
 2. Copiamos el valor del slot y vamos a `read smart`.
 
-<img src="/imágenes/4.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/4.1.png" alt="Imagen 2" width="75%">
 
 3. Llamamos a la función `values_mapped()` y nos guardo el valor.
 
-<img src="/imágenes/4.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/4.2.png" alt="Imagen 3" width="75%">
 
 4. Ingresamos el valor obtenido en la función anterior `4950` pero le restamos 32, ya que dentro de la función `claim_points()` le suman este valor. De esta manera ya podemos obtener los puntos.
 
-<img src="/imágenes/4.3.png" alt="Imagen 4" width="75%">
+<img src="imágenes/4.3.png" alt="Imagen 4" width="75%">
 
 
 <div align="center">
