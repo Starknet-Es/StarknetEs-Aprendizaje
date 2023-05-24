@@ -43,15 +43,15 @@ En este ejercicio el valor secreto está en otro contrato. Vamos a llamarlo cont
 
 1. Primero debemos encontrar el address del contrato B. Se obtiene del contrato A llamando a la función `get_ex10b_address()`.
 
-<img src="/imágenes/10.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/10.0.png" alt="Imagen 1" width="75%">
 
 2. Buscamos en el contrato B en [Starkscan](https://testnet.starkscan.co/contract/0x073d5ceb7e20bc50e555e326f60c25fe95bbb20f75892a3552eb77fcd14dae92#read-write-contract) y llamamos a la función `get_secret_value()` y obtenemos el valor secreto, es este caso `1547987`
 
-<img src="/imágenes/10.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/10.1.png" alt="Imagen 2" width="75%">
 
 3. Ahora iremos al contrato A. Ingresamos el valor secreto y nuevo valor en `claim_points`, en este caso fue `696969` de esta manera ya podemos obtener los puntos.
 
-<img src="/imágenes/10.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/10.2.png" alt="Imagen 3" width="75%">
 
 <div align="center">
 
