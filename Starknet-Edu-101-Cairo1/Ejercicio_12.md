@@ -41,15 +41,15 @@ Deberemos encontar el ultimo valor secreto y añadir un nuevo valor dentro de lo
 
 1. Al llamar la función `assign_user_slot()` se emite un evento donde está el valor secreto. 
 
-<img src="/imágenes/12.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/12.0.png" alt="Imagen 1" width="75%">
 
 2. Buscamos en los eventos creados y revisamos el valor obtenido para `secret_value`, en este caso `8665`.
 
-<img src="/imágenes/12.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/12.1.png" alt="Imagen 2" width="75%">
 
 3. Para reclamar los puntos deberemos restarle `32` al valor secreto para que se distribuyan, en este caso `8633`
 
-<img src="/imágenes/12.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/12.2.png" alt="Imagen 3" width="75%">
 
 <div align="center">
 
