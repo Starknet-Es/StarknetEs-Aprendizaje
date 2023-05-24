@@ -40,20 +40,20 @@ Debemos averiguar el valor secreto en `values_mapped_secret_storage`.
 
 1. Primero iremos a `write smart` y nos asignamos un slot, en nuestro caso `5`
 
-<img src="/imágenes/6.0.png" alt="Imagen 1" width="75%">
-<img src="/imágenes/6.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/6.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/6.1.png" alt="Imagen 2" width="75%">
 
 2. Debemos llamar a función `external_handler_for_internal_function()` para que modifique el valor de `values_mapped_secret_storage`
 
-<img src="/imágenes/6.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/6.2.png" alt="Imagen 3" width="75%">
 
 3. Llamamos a la función `get_user_values(account)` y guardamos el valor, en nuestro caso `6802`
 
-<img src="/imágenes/6.3.png" alt="Imagen 4" width="75%">
+<img src="imágenes/6.3.png" alt="Imagen 4" width="75%">
 
 4. Llamamos a la función `claim_points` y añadimos el valor anterior.
 
-<img src="/imágenes/6.4.png" alt="Imagen 5" width="75%">
+<img src="imágenes/6.4.png" alt="Imagen 5" width="75%">
 
 
 <div align="center">
