@@ -54,7 +54,7 @@ Elemento | Current_Suma  |  Sum = Current_Suma + Elemento  |
 
 1. Así que solo deberás de pasar la Array de 4 elementos que cumplen estas condiciones `33,12,4,1` para reclamar los puntos.
 
-<img src="/imágenes/9.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/9.0.png" alt="Imagen 1" width="75%">
 
 <div align="center">
 
