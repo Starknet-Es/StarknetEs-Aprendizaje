@@ -41,15 +41,15 @@ Deberemos encontar el valor secreto  que se nos asigna a nuestro slot y añadirl
 
 1. Primero llamamos `assign_user_slot()`.
 
-<img src="/imágenes/13.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/13.0.png" alt="Imagen 1" width="75%">
 
 2. Luego buscamos en `get_user_slots` que ranura es la que se nos ha asignado, en este caso el `7`.
 
-<img src="/imágenes/13.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/13.1.png" alt="Imagen 2" width="75%">
 
 3. Luego iremos a la transacción de la creación del contrato [ex13](https://testnet.starkscan.co/contract/0x067ed1d23c5cc3a34fb86edd4f8415250c79a374e87bcf2e6870321261ca9b0f#account-calls) y verificamos en la posición 7 el valor `4987` y copiamos el valor de la siguiente ranura de la `8` que sería `2249`.
 
-<img src="/imágenes/13.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/13.2.png" alt="Imagen 3" width="75%">
 
 <div align="center">
 
