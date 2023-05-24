@@ -39,21 +39,21 @@ En este ejercicio debemos hacer que el valor `values_mapped_secret_storage` sea 
 
 1. Primero iremos a `write smart` y nos asignamos un slot.
 
-<img src="/imágenes/5.0.png" alt="Imagen 1" width="75%">
+<img src="imágenes/5.0.png" alt="Imagen 1" width="75%">
 
 2. Llamamos a la función `get_user_slots()` añadiendo nuestra wallet. Como verán es 0. 
 
-<img src="/imágenes/5.1.png" alt="Imagen 2" width="75%">
+<img src="imágenes/5.1.png" alt="Imagen 2" width="75%">
 
 3. Debemos llamar a la función `copy_secret_value_to_readable_mapping()` para que modifique el valor.
 
-<img src="/imágenes/5.2.png" alt="Imagen 3" width="75%">
+<img src="imágenes/5.2.png" alt="Imagen 3" width="75%">
 
 4. Llamamos a la función `get_users_values()` y guardamos el valor.
 
-<img src="/imágenes/5.3.png" alt="Imagen 4" width="75%">
+<img src="imágenes/5.3.png" alt="Imagen 4" width="75%">
 
-5. Ingresamos el valor obtenido en la función anterior pero haremos los siguiente, si te ha tocado un slot par o impar se te asignará un resultado u otro, en nuestro caso nos ha servido este resume `Slot Par`
+5. Ingresamos el valor obtenido en la función anterior pero haremos los siguiente, si te ha tocado un slot par o impar se te asignará un resultado u otro, en nuestro caso nos ha servido este resumen `Slot Par`
 
 #### Slot Par
 En un slot par tipo 28 y con un valor ejemplo `9775` deberemos:
@@ -61,7 +61,7 @@ En un slot par tipo 28 y con un valor ejemplo `9775` deberemos:
 ```bash
 9775 - 32 + 23 = 9766
 ```
-<img src="/imágenes/5.4.png" alt="Imagen 5" width="75%">
+<img src="imágenes/5.4.png" alt="Imagen 5" width="75%">
 
 #### Slot Impar
 En un slot impar tipo 29 y con un valor ejemplo `1481` deberemos:
