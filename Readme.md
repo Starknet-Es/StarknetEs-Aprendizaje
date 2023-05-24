@@ -10,6 +10,7 @@
 ### Contenido
 
 - [Pioneros](#pioneros)
+- [Starknet Edu Cairo 1](#starknet-edu-cairo-1)    
 - [Starknet Edu](#starknet-edu)
 - [Cairo Mummies](#cairo-mummies)
 - [MIN Starknet](#min-starknet)
@@ -17,6 +18,7 @@
 - [Aprender con Cairo 1.0](#aprender-con-cairo-1)
 - [Aprender con Rust](#aprender-con-rust)
 - [Aprender con Solidity](#aprender-con-solidity)
+- [Full Node en Starknet](#full-node.en-starknet)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
 - [Starklings](#starklings)
 - [Contenido Multimedia de habla Hispana](#contenido-multimedia-de-habla-hispana)
@@ -36,6 +38,11 @@
     - [Vídeo Clase 4](https://www.youtube.com/watch?v=BUk_BNfGwmc)
     
     
+---
+
+### Starknet Edu Cairo 1
+- [Starknet-Edu 101](Starknet-Edu-101-Cairo1/README.md) - Workshop interactivo de Cairo 1 usando [Voyager](https://goerli.voyager.online/) y [Starkscan](https://testnet.starkscan.co/) con rompecabezas y tokens ERC-20 como premios.
+  
 ---
     
 ### Starknet Edu
@@ -99,22 +106,27 @@
     
 ---
     
-#### Aprender con Rust
+### Aprender con Rust
 - [Rustlings](https://github.com/ArturVargas/rustlings) - Guía de [@ArturVargas](https://github.com/ArturVargas) con souciones a pequeños ejercicios para acostumbrarte a leer y escribir código Rust. 
 
 ---
     
-#### Aprender con Solidity
+### Aprender con Solidity
 - [From Solidity to Cairo 1.0](https://from-solidity-to-cairo.notion.site/from-solidity-to-cairo/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e) - Guía en Desarrollo de [@ArturVargas](https://github.com/ArturVargas) para desarrolladores que vengan de Solidity y quieran aprender la nueva Sintáxis de Cairo 1.0, este gran trabajo será uno de los proyectos principales para posibles Basecamp.
 
 ---
     
-#### Aprender con la comunidad
+### Full Node en Starknet
+- [Dapp Node Juno](http://my.dappnode/#/installer/juno.public.dappnode.eth) - El miembro del equipo StarknetEs [@ArturVargas](https://github.com/ArturVargas) nos ha dejado la implentación de Juno para una instalación sencilla de Juno en Starknet, puede revisar su repo [aquí](https://github.com/ArturVargas/juno-dappnode)
+    - [Tutorial Dapp Node](https://www.youtube.com/watch?v=eiMatwfIEc8) - El miembro del equipo StarknetEs [@ArturVargas](https://github.com/ArturVargas) nos enseña como crear una paquete de Dapp Node, Juno, Pathfinder, Papyrus...
+    
+    
+### Aprender con la comunidad
 - [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA) - Recap Workshop 6-7 sobre Account Abtraction entre L2 Español y StarknetEs
 
 ---
     
-#### Starklings
+### Starklings
 - [Starklings](https://github.com/shramee/starklings-cairo1) - Un tutorial interactivo para empezar a trabajar con Cairo v1 y Starknet. 
 - [Lista de Video Completa Starklings](https://www.youtube.com/watch?v=G5bTHzqm_aA&list=PLSNe4kuVQKZPWuavcjr9Ts5ydBZwuwNFH) - Puede revisar la reproducción de la lista completa Starklings, con ejercicios resueltos por el miembro del equipo StarknetEs  [@ArturVargas](https://github.com/ArturVargas) 
 - Puede revisar los videos por separado si lo desea, desde el equipo de StarknetEs por [@ArturVargas](https://github.com/ArturVargas) 
@@ -149,7 +161,8 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
     - [Youtube](https://www.youtube.com/watch?v=JqqSNU2Xl0Q)
 - [HDS-5 - Space con David Barreto de STARKWARE sobre StarkEx, Starknet, SHARP, VM Rust, futuro de Starknet y más](https://twitter.com/0xNurstar/status/1656013151614246912)
     - [Youtube](https://www.youtube.com/watch?v=NGNepWPoqGM)
-
+- [HDS-6 - Space con Joxes desde L2 en Español para hablar del ecositema en General, grandes tópicos como Consenso, Modularidad, Eigen Layer, Celestia, futuro de las L2 y ETH](https://twitter.com/0xNurstar/status/1658809841731633154)
+    - [Youtube]()
 
 Puede acceder a la PlayList completa desde [aquí](https://www.youtube.com/watch?v=4e9U75b6nE8&list=PLsT2v7zRw9wmuvS-7BJoNy5gI0W_O58pm)
 
