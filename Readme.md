@@ -36,6 +36,8 @@
     - [Vídeo Clase 3](https://www.youtube.com/watch?v=hfuVHil2kgY)
 - [Pioneros Clase 4](https://www.canva.com/design/DAFiDGwZbUo/7p3D0YRLe9AUmFPnTthiMw/view) - El poder de Account Abstraction: Introducción e Implementación en Starknet.
     - [Vídeo Clase 4](https://www.youtube.com/watch?v=BUk_BNfGwmc)
+- [Pioneros Clase 5](https://www.canva.com/design/DAFj1zsceAU/3Ay_k8uIR0nqty1WRUZS_Q/edit?utm_content=DAFj1zsceAU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - La Arquitectura de Starknet: Profundización sobre Secuenciadores, Ciclo de Vida de las TX, SHARP, Data Availability
+    - [Vídeo Clase 5](https://www.youtube.com/watch?v=7wz8zKrABHc)
     
     
 ---
