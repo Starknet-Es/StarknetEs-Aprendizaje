@@ -19,6 +19,7 @@
 - [Aprender con Rust](#aprender-con-rust)
 - [Aprender con Solidity](#aprender-con-solidity)
 - [Full Node en Starknet](#full-node.en-starknet)
+- [Madara](#madara)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
 - [Starklings](#starklings)
 - [Contenido Multimedia de habla Hispana](#contenido-multimedia-de-habla-hispana)
@@ -121,9 +122,16 @@
 ### Full Node en Starknet
 - [Dapp Node Juno](http://my.dappnode/#/installer/juno.public.dappnode.eth) - El miembro del equipo StarknetEs [@ArturVargas](https://github.com/ArturVargas) nos ha dejado la implentación de Juno para una instalación sencilla de Juno en Starknet, puede revisar su repo [aquí](https://github.com/ArturVargas/juno-dappnode)
     - [Tutorial Dapp Node](https://www.youtube.com/watch?v=eiMatwfIEc8) - El miembro del equipo StarknetEs [@ArturVargas](https://github.com/ArturVargas) nos enseña como crear una paquete de Dapp Node, Juno, Pathfinder, Papyrus...
+
+---
     
+### Madara
+- [Sharingan Starter Pack](https://github.com/Nadai2010/Nadai-StarknetEs-Sharingan) - Madara es un `Secuenciador de Starknet`, vemos dos tipos de nodos en Sharingan, Madara como `Secuenciador` o como `Full node`. Sharingan es (una testnet efímera para Starknet) en la que todas las nodos que participan en la red son instancias de Madara. Encontrarán 2 Guías como pack inicial para probar el futuro de las L3
+    
+---  
     
 ### Aprender con la comunidad
+- [Workshop Pragma Oracle - Parte 1](https://www.youtube.com/live/RdaNAvtpsoY?feature=share) - Taller de aprendizaje para integrar Price Feed de Pragma Oracle en nuestros contratos de Cairo 1.
 - [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA) - Recap Workshop 6-7 sobre Account Abtraction entre L2 Español y StarknetEs
 
 ---
@@ -165,7 +173,9 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
     - [Youtube](https://www.youtube.com/watch?v=NGNepWPoqGM)
 - [HDS-6 - Space con Joxes desde L2 en Español para hablar del ecositema en General, grandes tópicos como Consenso, Modularidad, Eigen Layer, Celestia, futuro de las L2 y ETH](https://twitter.com/0xNurstar/status/1658809841731633154)
     - [Youtube](https://youtu.be/7cTqkwIW8Aw)
-
+- [HDS-7 - Space con LambdaClass, aprenderemos de este gran equipo oficial sobre la infraestrucutra de Starknet: CVM en Rust, Secuencer en Rust, MLIR y muchos más](https://twitter.com/0xNurstar/status/1666157248748322843)
+    - [Youtube](https://www.youtube.com/watch?v=BuBC0lbpRMs)
+    
 Puede acceder a la PlayList completa desde [aquí](https://www.youtube.com/watch?v=4e9U75b6nE8&list=PLsT2v7zRw9wmuvS-7BJoNy5gI0W_O58pm)
 
 ---
