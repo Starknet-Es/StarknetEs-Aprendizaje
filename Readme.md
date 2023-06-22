@@ -84,6 +84,7 @@
 ---
     
 ### Aprender con Cairo 1
+- [Guía Definitiva Cairo 1](https://github.com/Nadai2010/Nadai-StarknetEs-SC/) - En esta guía ya podemos profundizar más en la instalación que más se acomodo a tus preferencias `docker`, `script`, `manual` la que crea mejor, encontrará varios recursos para ello así como documentación oficial y todo lo necesario para comprender la Sintáxis desde varios equipos, pruebas de contratos de Cairo 1, test en Cairo, crear contratos de cuentas e información interesante al respecto.
 - [Docker para el desarrollo de Cairo](https://gist.github.com/glihm/ed2629e44ef5f68dc094d90d60fdc5bc) - En esta guía, realizaremos una primera exploración de cómo utilizar Docker para Cairo 1.0, lo cual nos permitirá evitar la configuración del entorno de desarrollo.
     - [Video de Starknet contracts Cairo 1 en Docker](https://www.youtube.com/watch?v=1jS3uOsv9Z4) - Una video guía creada por [@ArturVargas](https://github.com/ArturVargas) para usar Docker y Cairo 1.0
 - [Starknet-Es - Guía como desplegar contrato en Cairo 1.0](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1) - Aprende a desplegar tu contrato Cairo 1 en testnet.
@@ -105,6 +106,7 @@
 - [Traducción Explorando Cairo Parte 6](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/Explorando%20Cairo%20parte%206.md) - En este artículo de [Asten](https://twitter.com/0xasten) exploraremos algunos de los conceptos clave en Cairo 1.0, incluida la mutabilidad variable, el ownership (propiedad, en español), el borrowing (préstamo, en español) y las referencias.
 
 #### Traducciones Starkware
+- [Traducción Slides David Barreto - Iniciando con Starknet](https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/assets/David%20Barreto%20Starknet%20Slides%20(PUBLIC)%20-%20En%20espa%C3%B1ol.pdf) En estas maravillosas diapositivas traducidas por [@Dimeyad](https://github.com/dimeyad), nos adentraremos en Starknet y aprenderemos sobre la importancia del programa CAiro, así como los grandes beneficios de nuestro Validity Rollup. También exploraremos la arquitectura, las pruebas STARKs como líder en CI y mucho más.
 - [Traducción Builtins y Dynamic Layouts](https://mirror.xyz/0x7D1c14939AcEE5ca141c8beDF3474AFBf3884041/RTgQnMxeVGRCczih1pGXKy2KGFcU_xmf2NMx52wDgH0) - En este artículo se explicarán qué son los builtins, sus beneficios, los desafíos involucrados en aprovechar estos beneficios y los Dynamic Layouts (Diseños Dinámicos)
     
 ---
@@ -175,6 +177,8 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
     - [Youtube](https://youtu.be/7cTqkwIW8Aw)
 - [HDS-7 - Space con LambdaClass, aprenderemos de este gran equipo oficial sobre la infraestrucutra de Starknet: CVM en Rust, Secuencer en Rust, MLIR y muchos más](https://twitter.com/0xNurstar/status/1666157248748322843)
     - [Youtube](https://www.youtube.com/watch?v=BuBC0lbpRMs)
+- [HDS-8 - Space con Glihm, en esta gran edición aprenderemos sobre nuevo secuenciador y posible base de L3 Madara, Substrate, Rust y como se une todos los engranajes con la CVM y Cairo](https://twitter.com/i/spaces/1YqJDopMVoVGV)
+    - [Youtube](https://www.youtube.com/watch?v=rseCaWIvpoI) 
     
 Puede acceder a la PlayList completa desde [aquí](https://www.youtube.com/watch?v=4e9U75b6nE8&list=PLsT2v7zRw9wmuvS-7BJoNy5gI0W_O58pm)
 
