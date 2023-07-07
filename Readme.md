@@ -178,8 +178,11 @@ Un Space en Twitter de frecuencia semanal o bisemanal creado por [Nurst](https:/
 - [HDS-7 - Space con LambdaClass, aprenderemos de este gran equipo oficial sobre la infraestrucutra de Starknet: CVM en Rust, Secuencer en Rust, MLIR y muchos más](https://twitter.com/0xNurstar/status/1666157248748322843)
     - [Youtube](https://www.youtube.com/watch?v=BuBC0lbpRMs)
 - [HDS-8 - Space con Glihm, en esta gran edición aprenderemos sobre nuevo secuenciador y posible base de L3 Madara, Substrate, Rust y como se une todos los engranajes con la CVM y Cairo](https://twitter.com/i/spaces/1YqJDopMVoVGV)
-    - [Youtube](https://www.youtube.com/watch?v=rseCaWIvpoI) 
-    
+    - [Youtube](https://www.youtube.com/watch?v=rseCaWIvpoI)
+- [HDS-9 - Space con Ismael, en esta edición aprenderemos las ventajas que implementa ArgentX, el poder de AA,la seguridad de esquemas de firmas y mucho más](https://twitter.com/0xNurstar/status/1676309450485821454)
+    - [Youtube](https://www.youtube.com/watch?v=e65QNIe5EN8)
+
+       
 Puede acceder a la PlayList completa desde [aquí](https://www.youtube.com/watch?v=4e9U75b6nE8&list=PLsT2v7zRw9wmuvS-7BJoNy5gI0W_O58pm)
 
 ---
