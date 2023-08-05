@@ -20,6 +20,8 @@
 - [Aprender con Solidity](#aprender-con-solidity)
 - [Full Node en Starknet](#full-node.en-starknet)
 - [Madara](#madara)
+- [Lambda Class](#lambda-class)
+- [Dojo](#dojo)
 - [Aprender con la Comunidad](#aprender-con-la-comunidad)
 - [Starklings](#starklings)
 - [Contenido Multimedia de habla Hispana](#contenido-multimedia-de-habla-hispana)
@@ -131,6 +133,16 @@
 - [Sharingan Starter Pack](https://github.com/Nadai2010/Nadai-StarknetEs-Sharingan) - Madara es un `Secuenciador de Starknet`, vemos dos tipos de nodos en Sharingan, Madara como `Secuenciador` o como `Full node`. Sharingan es (una testnet efímera para Starknet) en la que todas las nodos que participan en la red son instancias de Madara. Encontrarán 2 Guías como pack inicial para probar el futuro de las L3
     
 ---  
+
+### LambdaClass
+- [Prover Platinum](https://github.com/Nadai2010/Lambda-Guia-Platinum) - Guía en Español sobre cómo instalar y utilizar **Prover Platinum** de Lambdaworks. Este nuevo Prover desarrollado por LambdaClass puede probar sus programas escritos en Cairo ejecutados en la Cairo VM, generarndo una traza de salida que deberá validar. Para ello, se generará una Validity Proof que valide que los cálculos sean íntegros que posteriormente se verificarán. Siga los pasos de la guía para explorar el potencial de este nuevo Prover.
+
+---
+
+### Dojo
+- [Dojo Book](https://book.dojoengine.org/es/index.html) - Versión en Español del Dojo Book. En este libro, podemos conocer a Dojo como un motor de juego comprobable con una cadena de herramientas integrada, diseñado para crear juegos en cadena y mundos autónomos utilizando Cairo. Emplea un sistema de componentes de entidad y un patrón de diamante, lo que facilita la creación de un mundo modular y escalable. Los mundos se expanden a medida que se agregan Componentes (state) y Sistemas (lógica). Te invitamos a explorar este maravilloso libro que aborda lo que será el **Unity de Starknet**, con la seguridad de Stark y adaptado a la modularidad con un enfoque de escalado fractal. Esta innovación abrirá grandes oportunidades en el desarrollo, gracias a las incorporaciones impulsadas por el poder del Starknet Stack y el lanzamiento de appchains todo resultará más fácil.
+
+---
     
 ### Aprender con la comunidad
 - [Workshop Pragma Oracle - Parte 1](https://www.youtube.com/live/RdaNAvtpsoY?feature=share) - Taller de aprendizaje para integrar Price Feed de Pragma Oracle en nuestros contratos de Cairo 1.
@@ -203,5 +215,6 @@ Una [lista de 7 Workshops](https://www.youtube.com/playlist?list=PL5LoUunXvIgLCd
 #### Eventos de Equipo o Miembros sobre temas de Starknet
 
 - [Defi Lab y EIP4337](https://www.youtube.com/watch?v=YQwjC-bsjuk&feature=youtu.be) - La comunidad [Twitter Defi Lab](https://twitter.com/DeFi_LaB)-[Telegram Defi Lab](https://t.me/DeFi_Lab) invita a [Nadai](https://twitter.com/Nadai02010) en participar en taller sobre AA con otro compañero [Iván](https://github.com/ivanmmurciaua) co-fundador de [Escuela Crypto](https://t.me/joinchat/QN2nCFar4VsLzKEbFUTDfQ)
+- [Defi Lab y Wallets](https://www.youtube.com/watch?v=YkjELH0Pr9A) - Esta guía de uso explora las características de ArgentX y Braavos, presentando las diferencias distintivas entre ambas y destacando el impacto de la tecnología AA. Nadai ofrece un análisis detallado de estos wallets y nos brinda un recorrido por aspectos sumamente influyentes en el mundo de Starknet ylas soluciones de escalabilidad de ETH.
 
 ---
